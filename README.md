@@ -48,7 +48,7 @@ Verynteractive currently adds:
   - nautilus drop their shells
   - villagers drop some of their items too
 - More enchantments
-  - 41, i'll write them later
+  - 45, i'll write them later...
 - Foods give potion effects
   - nope not listing them
 - Tombs
@@ -109,4 +109,12 @@ Verynteractive currently adds:
 - Bug fixes
   - not many tho, stop fixing them mojang!!! :(
 
-im going to eep now, tomorrow big update for a treecapitator enchantment
+## Want to see them?
+![Youtube](https://www.youtube.com/@PALKIP)
+![Reddit](https://www.reddit.com/user/PALKIP/submitted/)
+![TikTok](https://www.tiktok.com/@palkip.tiktok)
+
+### What's been shown until now?
+![Enchantments Youtube Showcase](https://youtu.be/-Hi8_dp60TE)
+
+update soon with more links
