@@ -2,40 +2,40 @@
 
 ## A Minecraft datapack complete with all the features you will ever need, and a thousand more just to be sure.
 
-I started working on this piece of shit long ago, and now i'll be shoving it in everyone's faces too.
+I started working on this piece of shit a year ago, and now i'll be shoving it in everyone's faces too.
 
 Verynteractive currently adds:
 - Armor trim abilities
    - sentry
-     - hunt down your preys
+     - makes hunting easier
    - vex
-     - summon fangs and allays
+     - gain the abilities of the evoker
    - wild
-     - vigilant and agile
+     - be wary of your surroundings
    - coast
-     - move easily in the water
+     - move in the water with ease
    - dune
-     - throw away your horse cause you're faster now
+     - run faster and get less hungry
    - wayfinder
      - your old self protects you from the past
    - raiser
-     - so many dogs, just so many dogs...
+     - make your own army of dogs
    - shaper
-     - mine and build with ease
+     - mine and build further away
    - host
-     - x-ray
+     - x-ray but occasionally faulty
    - ward
-     - an impenetrable waling fortress
+     - an impenetrable walking fortress
    - silence
-     - blinds your enemies when attacked
+     - blind your enemies when in danger
    - tide
      - fish, lava fish too
    - snout
-     - the warmer you are the more punches you can throw
+     - the warmer you are the stronger you punch
    - rib
-     - repair your bones using others
+     - repair your bones using other's
    - eye
-     - become one with the end
+     - become an enderman
    - spire
      - jump boost, if you consider licking the clouds a boost
    - flow
@@ -84,7 +84,7 @@ Verynteractive currently adds:
   - netherite is very fast again
 - Rebalanced enchantments
   - bane of arthropods and smite actually deal damage
-  - channels WORKS???
+  - channeling WORKS???
   - fire protection and projectile protection aren't overshadowed by protection anymore
   - unbreaking five because why not at this point
 - Better minecarts
@@ -116,5 +116,6 @@ Verynteractive currently adds:
 
 ### What's been shown until now?
 ![Enchantments Youtube Showcase](https://youtu.be/-Hi8_dp60TE)
+![Motion command](https://www.reddit.com/r/MinecraftCommands/s/j8abydJpxV)
 
 update soon with more links
