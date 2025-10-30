@@ -13,7 +13,8 @@ Verynteractive currently adds:
   - nautilus drop their shells
   - villagers drop some of their items too
 - More enchantments
-  - 45, i'll write them later...
+  - Some are for tools that couldn't have any before, like the bundle or the spyglass  
+    <img width="300" height="218" alt="enchantments" src="https://github.com/user-attachments/assets/5df39cb8-1914-417f-84df-2047a6586e23" />
 - Foods give potion effects
   - nope not listing them
 - Tombs
