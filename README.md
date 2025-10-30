@@ -21,6 +21,7 @@ Verynteractive currently adds:
 - Longer lasting and stackable potions
   - get poison 4 times as long
   - 16 times in a row too why not
+![](props/potions.gif)
 - Fermenting potions in barrels
   - do you really need that speed potion to last 1 hour and a half?
 - Creating potions in cauldrons
