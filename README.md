@@ -20,7 +20,7 @@ Verynteractive currently adds:
   - in the void too i guess
 - Longer lasting and stackable potions
   - get poison 4 times as long
-  - 16 times in a row too why not
+  - 16 times in a row too why not  
 ![](props/potions.gif)
 - Fermenting potions in barrels
   - do you really need that speed potion to last 1 hour and a half?
@@ -28,8 +28,8 @@ Verynteractive currently adds:
   - they apply the effect to their surrounding too like beacons
 - Cooking custom foods in cauldrons
   - cool right? right??
-- Creating giant hamburgers on furnaces
-  - i meant huge
+- Creating giant hamburgers on furnaces  
+![](props/burgers.gif)
 - Jukeboxes potion effects
   - vibin'
 - Grindstone actually grinds your tools now
@@ -38,8 +38,8 @@ Verynteractive currently adds:
   - rte2 reference  
 ![](props/horns.gif)  
 ![](props/horns2.gif)
-- Terraria modifiers to tools
-  - took a while
+- Terraria modifiers to tools  
+![](props/modifiers.gif)
 - Armor stands with arms
   - 1 line of code mojang
 - Rebalanced tools
@@ -56,9 +56,11 @@ Verynteractive currently adds:
   - fire protection and projectile protection aren't overshadowed by protection anymore
   - unbreaking five because why not at this point
 - Better minecarts
-  - i just oiled their wheels a tad
+  - i just oiled their wheels a tad  
+![](props/minecarts.gif)
 - Throwing Items
-  - by shifting and pressing [Q] or whatever sick button you may use
+  - by shifting and pressing [Q] or whatever sick button you may use  
+![](props/throwdrop.gif)
 - Trident crafting
   - ever crafter a conduit?
 - Dragon Breath crafting
