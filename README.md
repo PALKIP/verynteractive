@@ -34,7 +34,9 @@ Verynteractive currently adds:
 - Grindstone actually grinds your tools now
   - fuck you 40 levels cost cap
 - Goat horns give custom effects when used
-  - rte2 reference
+  - rte2 reference  
+![](props/horns.gif)  
+![](props/horns2.gif)
 - Terraria modifiers to tools
   - took a while
 - Armor stands with arms
