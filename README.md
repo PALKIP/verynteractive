@@ -5,7 +5,7 @@
 I started working on this piece of shit a year ago, and now i'll be shoving it in everyone's faces too.
 
 Verynteractive currently adds:
-- Armor trim abilities
+- Armor trim abilities  
 ![](props/trims.gif)
 - Enhanced mob drops
   - turtles drop their scutes
