@@ -15,6 +15,8 @@ Verynteractive currently adds:
 - More enchantments
   - Some are for tools that couldn't have any before, like the bundle or the spyglass  
     <img width="300" height="218" alt="enchantments" src="https://github.com/user-attachments/assets/5df39cb8-1914-417f-84df-2047a6586e23" />
+- Reworked enchanting table  
+  ![](props/enchanting.gif)
 - Foods give potion effects
   - nope not listing them
 - Tombs
