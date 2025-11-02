@@ -63,16 +63,16 @@ Verynteractive currently adds:
 - Rebalanced tools
   - wood is wood
   - stone is slow and heavy
-  - copper is heavy
+  - copper is fast and heavy
   - iron is balanced
-  - gold is very fast... for some reason
+  - gold is very fast
   - diamond is fast
-  - netherite is very fast again
+  - netherite is very fast and heavy
 - Rebalanced enchantments
-  - bane of arthropods and smite actually deal damage
-  - channeling WORKS???
-  - fire protection and projectile protection aren't overshadowed by protection anymore
-  - unbreaking five because why not at this point
+  - bane of arthropods and smite deal more extra damage
+  - channeling works like in bedrock
+  - blast/fire/projectile protection aren't overshadowed by protection anymore
+  - unbreaking 4 and 5
 - Better minecarts
   - i just oiled their wheels a tad  
   ![](props/minecarts.gif)
@@ -80,18 +80,18 @@ Verynteractive currently adds:
   - by shifting and pressing [Q] or whatever sick button you may use  
   ![](props/throwdrop.gif)
 - Trident crafting
-  - ever crafter a conduit?
+  - ever crafted a conduit?
 - Dragon Breath crafting
   - the dragon heads were right there mojang RIGHT THERE
 - Training dummies
-  - sword are fine, but punching them is mean
+  - sword are fine, but punching them is mean and breaks them
 - Feeding farm mobs fattens them
-  - double the loot
-  - double the health??
+  - doubles the loot and the health
+  - works on any mob that can be fed
 - Powered iron golems
-  - DONT hit them
+  - bigger and stronger
 - Powered copper golems
-  - slaving 2.0
+  - makes them work faster
 - The two most useless flowers in existance do something too now
   - the sniffer is still crap, may the rascal rest in peace  
 - Bug fixes
@@ -114,12 +114,12 @@ Verynteractive currently adds:
 - is verynteractive just a clusterfuck of features? is that really an enhancement of minecraft vanilla?
   - yes that is the point, features that coul be added by anyone, so why hasn't anyone added them yet? potions in cauldorns, materials with advantages and disadvantages, armor stands with arms, its easy... yet mojang wont do it
   - verynteractive isnt an enhancement to vanilla because its not vanilla, its not "vanilla-like", it dosn't need to be, i just made a datapack to have fun again on a game that hasn't been "REALLY UPDATED" in years, and no, a new weapon with 1(one) enchantment isnt an update (i made 2 in a day when it came out come on mojang), all goat horns, trims, discs having abilities and a reason to collect, thats an update
-  - since some features are more extreme than others (es. creating hamburgers vs lighter minecarts) verynteractive will be configurable, dont want 50 new enchantments? you prefer armless armor stands?? YOU WANT TO NEVER GET A TRIDENT? just get the version of the datapack without those things (they will all be available and updated together)
+  - since some features are more extreme than others (es. creating hamburgers vs lighter minecarts) verynteractive will be configurable, dont want 50 new enchantments? you prefer armless armor stands?? YOU WANT TO FIGHT THE DRAGON AGAIN TO SHOOT 8 POISON ARROWS??? just get the version of the datapack without those things (they will all be available and updated together)
 
 ## what the hell did i just read?
 peak
 
-## Want to see them?
+## Where can i see more?
 ![Youtube](https://www.youtube.com/@PALKIP)
 ![Reddit](https://www.reddit.com/user/PALKIP/submitted/)
 ![TikTok](https://www.tiktok.com/@palkip.tiktok)
