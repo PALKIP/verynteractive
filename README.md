@@ -106,7 +106,7 @@ Verynteractive currently adds:
   - everything becomes Very* at some point, so all of my stuff will be here eventually
 
 # QYMWTABIAARSHTA
-### (questions you may want to ask but i am alway ready so here they are)
+### (questions you may want to ask but i am always ready so here they are)
 - when can i play this?
   - a week, a month if something important happens
 - since when has this existed?
