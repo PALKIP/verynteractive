@@ -20,27 +20,32 @@ Verynteractive currently adds:
 - Foods give potion effects
   - nope not listing them
 - Tombs
-  - in the void too i guess
+  - they also work in the void if you manage to die there  
+  ![](props/tomb.gif)
 - Longer lasting and stackable potions
   - get poison 4 times as long
   - 16 times in a row too why not  
-![](props/potions.gif)
+  ![](props/potions.gif)
 - Fermenting potions in barrels
-  - do you really need that speed potion to last 1 hour and a half?
+  - do you really need that speed potion to last 1 hour?  
+  ![](props/fermenting.gif)
 - Creating potions in cauldrons
-  - they apply the effect to their surrounding too like beacons
-- Cooking custom foods in cauldrons
-  - cool right? right??
+  - they apply the effect to their surrounding too like beacons  
+  ![](props/cauldron_potion.gif)
+- Cooking food in cauldrons
+  - cool right? right??  
+  ![](props/cauldron_cook.gif)
 - Creating giant hamburgers on furnaces  
 ![](props/burgers.gif)
-- Jukeboxes potion effects
-  - vibin'
+- Jukeboxes potion effects  
+![](props/discs.gif)
 - Grindstone actually grinds your tools now
-  - fuck you 40 levels cost cap
+  - fuck you 40 levels cost cap  
+  ![](props/grindstone.gif)
 - Goat horns give custom effects when used
   - rte2 reference  
-![](props/horns.gif)  
-![](props/horns2.gif)
+  ![](props/horns.gif)  
+  ![](props/horns2.gif)
 - Terraria modifiers to tools  
 ![](props/modifiers.gif)
 - Armor stands with arms
@@ -60,10 +65,10 @@ Verynteractive currently adds:
   - unbreaking five because why not at this point
 - Better minecarts
   - i just oiled their wheels a tad  
-![](props/minecarts.gif)
+  ![](props/minecarts.gif)
 - Throwing Items
   - by shifting and pressing [Q] or whatever sick button you may use  
-![](props/throwdrop.gif)
+  ![](props/throwdrop.gif)
 - Trident crafting
   - ever crafter a conduit?
 - Dragon Breath crafting
