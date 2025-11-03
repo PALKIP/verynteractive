@@ -120,13 +120,13 @@ Verynteractive currently adds:
 peak
 
 ## Where can i see more?
-![Youtube](https://www.youtube.com/@PALKIP)
-![Reddit](https://www.reddit.com/user/PALKIP/submitted/)
-![TikTok](https://www.tiktok.com/@palkip.tiktok)
+Youtube https://www.youtube.com/@PALKIP  
+Reddit https://www.reddit.com/user/PALKIP/submitted/  
+TikTok https://www.tiktok.com/@palkip.tiktok  
 
 ### What's been shown until now?
-![Enchantments, Youtube](https://youtu.be/-Hi8_dp60TE)  
-![Motion command, Reddit](https://www.reddit.com/r/MinecraftCommands/s/j8abydJpxV)  
-![Enchanting Table, Reddit](https://youtu.be/I_g1MpubMwM)  
+Enchantments https://youtu.be/-Hi8_dp60TE  
+Motion command https://www.reddit.com/r/MinecraftCommands/s/j8abydJpxV  
+Enchanting Table https://youtu.be/I_g1MpubMwM  
 
 update soon with more links and stuff
