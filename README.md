@@ -1,4 +1,4 @@
-<img width="2029" height="264" alt="verynteractivetitle" src="https://github.com/user-attachments/assets/f8f10a91-4b0e-4840-b8da-92233eedc4a1" />
+<img width="2034" height="231" alt="verynteractive_title_official" src="https://github.com/user-attachments/assets/743bd80c-11ca-471e-ac20-c46a4cdfbce4" />
 
 ## A Minecraft datapack complete with all the features you will ever need, and a thousand more just to be sure.
 
