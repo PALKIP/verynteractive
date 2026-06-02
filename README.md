@@ -105,10 +105,9 @@ Verynteractive currently adds:
   - VeryReady (verynteractive, wip) | reads the player inventory and replaces items with other items, its as fast as it is non functional
   - everything becomes Very* at some point, so all of my stuff will be here eventually
 
-# QYMWTABIAARSHTA
-### (questions you may want to ask but i am always ready so here they are)
+# FAQ
 - when can i play this?
-  - a week, a month if something important happens
+  - delayed because of uni, hopefully soon
 - since when has this existed?
   - i started working on verynteractive on june 2024 when i realized rte2 had too many features, now i have 2 datapacks with too many features
 - is verynteractive just a clusterfuck of features? is that really an enhancement of minecraft vanilla?
@@ -116,17 +115,17 @@ Verynteractive currently adds:
   - verynteractive isnt an enhancement to vanilla because its not vanilla, its not "vanilla-like", it dosn't need to be, i just made a datapack to have fun again on a game that hasn't been "REALLY UPDATED" in years, and no, a new weapon with 1(one) enchantment isnt an update (i made 2 in a day when it came out come on mojang), all goat horns, trims, discs having abilities and a reason to collect, thats an update
   - since some features are more extreme than others (es. creating hamburgers vs lighter minecarts) verynteractive will be configurable, dont want 50 new enchantments? you prefer armless armor stands?? YOU WANT TO FIGHT THE DRAGON AGAIN TO SHOOT 8 POISON ARROWS??? just get the version of the datapack without those things (they will all be available and updated together)
 
-## what the hell did i just read?
-peak
-
-## Where can i see more?
+### Where can i see more?
 Youtube https://www.youtube.com/@PALKIP  
 Reddit https://www.reddit.com/user/PALKIP/submitted/  
-TikTok https://www.tiktok.com/@palkip.tiktok  
+TikTok https://www.tiktok.com/@palkip.tiktok  (nothing yet)
 
 ### What's been shown until now?
 Enchantments https://youtu.be/-Hi8_dp60TE  
 Motion command https://www.reddit.com/r/MinecraftCommands/s/j8abydJpxV  
 Enchanting Table https://youtu.be/I_g1MpubMwM  
+Chaos Cubed https://www.reddit.com/r/Minecraft/comments/1slmnxg/potion_absorbing_sulfur_spikes/  
+Stucking and Vault enchantments https://www.reddit.com/r/Minecraft/comments/1tszr42/new_spear_enchantment_for_mobility  
+Trident https://www.reddit.com/r/PhoenixSC/comments/1ttrr3z/am_i_using_it_right  
 
 update soon with more links and stuff
